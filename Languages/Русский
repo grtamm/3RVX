@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<translation version="1">
+
+  <language name="Russian" id="ru" regions="ru"/>
+  <author name="Roman Tamm" website="http://3RVX.com/"/>
+
+  <!-- General Strings -->
+  <string>
+    <original>3RVX Settings</original>
+    <translation>Параметры</translation>
+  </string>
+  <string>
+    <original>OK</original>
+    <translation>ОК</translation>
+  </string>
+  <string>
+    <original>Cancel</original>
+    <translation>Отмена</translation>
+  </string>
+  <string>
+    <original>Apply</original>
+    <translation>Применить</translation>
+  </string>
+
+  <!-- Notification Icon Menu Strings -->
+  <string>
+    <original>Settings</original>
+    <translation>Настройки</translation>
+  </string>
+  <string>
+    <original>Audio Device</original>
+    <translation>Устройство воспроизведения</translation>
+  </string>
+  <string>
+    <original>Mixer</original>
+    <translation>Микшер</translation>
+  </string>
+  <string>
+    <original>Exit</original>
+    <translation>Выход</translation>
+  </string>
+  <string>
+    <original>Muted</original>
+    <translation>Muted</translation>
+  </string>
+
+
+  <!-- Tab Names -->
+  <string>
+    <original>General</original>
+    <translation>Главные</translation>
+  </string>
+  <string>
+    <original>Display</original>
+    <translation>Экран</translation>
+  </string>
+  <string>
+    <original>Hotkeys</original>
+    <translation>Быстрые клавиши</translation>
+  </string>
+  <string>
+    <original>About</original>
+    <translation>О программе</translation>
+  </string>
+
+  <!-- General Tab -->
+  <string>
+    <original>Behavior</original>
+		<translation>Поведение</translation>
+  </string>
+  <string>
+    <original>Run on Windows startup</original>
+    <translation>Запускать 3RVX при старте Windows</translation>
+  </string>
+    <string>
+    <original>Show volume OSD on startup</original>
+    <translation>Показывать слайдер при запуске 3RVX</translation>
+  </string>
+  <string>
+    <original>Enable volume notification icon</original>
+    <translation>Включить значок громкости в трее</translation>
+  </string>
+  <string>
+    <original>Enable sound effects</original>
+    <translation>Включить звуковые эфекты слайдера</translation>
+  </string>
+    <string>
+    <original>Automatic updates</original>
+    <translation>Автоматическое обновление</translation>
+  </string>
+  <string>
+    <original>Check Now</original>
+    <translation>Проверить сейчас</translation>
+  </string>
+
+  <string>
+    <original>Skin</original>
+		<translation>Скин</translation>
+  </string>
+  <string>
+    <original>Author: {1}</original>
+		<translation>Автор: {1}</translation>
+  </string>
+  <string>
+    <original>Website</original>
+		<translation>Вэбсайт</translation>
+  </string>
+
+  <string>
+    <original>Language</original>
+		<translation>Язык</translation>
+  </string>
+
+  
+  <!-- Display Tab -->
+  <string>
+    <original>Visibility</original>
+    <translation>Показывать слайдер</translation>
+  </string>
+  <string>
+    <original>Keep on top of other windows</original>
+    <translation>Поверх всех окон</translation>
+  </string>
+  <string>
+    <original>Hide when other programs are fullscreen</original>
+    <translation>Скрывать в полноэкранных режимах</translation>
+  </string>
+    <string>
+    <original>Hide when DirectX applications are fullscreen</original>
+    <translation>Скрывать в играх</translation>
+  </string>
+
+  <string>
+    <original>Position</original>
+    <translation>Положение на экране</translation>
+  </string>
+  <string>
+    <original>Top</original>
+    <translation>Сверху</translation>
+  </string>
+  <string>
+    <original>Left</original>
+    <translation>Слева</translation>
+  </string>
+  <string>
+    <original>Right</original>
+    <translation>Справа</translation>
+  </string>
+  <string>
+    <original>Bottom</original>
+    <translation>Внизу</translation>
+  </string>
+  <string>
+    <original>Center</original>
+    <translation>По центру</translation>
+  </string>
+  <string>
+    <original>Top-left</original>
+    <translation>Сверху-слева</translation>
+  </string>
+  <string>
+    <original>Top-right</original>
+    <translation>Сверху-справа</translation>
+  </string>
+  <string>
+    <original>Bottom-left</original>
+    <translation>Снизу-слева</translation>
+  </string>
+  <string>
+    <original>Bottom-right</original>
+    <translation>Снизу-справа</translation>
+  </string>
+  <string>
+    <original>Custom</original>
+    <translation>Выборочно</translation>
+  </string>
+  <string>
+    <original>Custom distance from screen edge (px):</original>
+    <translation>Выбор расстояния от края экрана (px):</translation>
+  </string>
+  <string>
+    <original>Display Device:</original>
+    <translation>Мониторы:</translation>
+  </string>
+  <string>
+    <original>Primary Monitor</original>
+    <translation>Primary Монитор</translation>
+  </string>
+  <string>
+    <original>All Monitors</original>
+    <translation>Все мониторы</translation>
+  </string>
+
+  <string>
+    <original>Animation</original>
+    <translation>Эфекты анимации</translation>
+  </string>
+  <string>
+    <original>None</original>
+    <translation>Нет</translation>
+  </string>
+  <string>
+    <original>Fade</original>
+    <translation>Затухание</translation>
+  </string>
+  <string>
+    <original>Hide Delay (ms):</original>
+    <translation>Задержка (ms):</translation>
+  </string>
+  <string>
+    <original>Speed (ms):</original>
+    <translation>Скорость (ms):</translation>
+  </string>
+
+  <!-- OSD -->
+  <string>
+    <original>Volume</original>
+    <translation>Громкость</translation>
+  </string>
+  <string>
+    <original>Brightness</original>
+    <translation>Яркость</translation>
+  </string>
+  <string>
+    <original>Eject</original>
+    <translation>Eject</translation>
+  </string>
+  <string>
+    <original>Keyboard</original>
+    <translation>Клавиатура</translation>
+  </string>
+  <string>
+    <original>Enable notification icon</original>
+    <translation>Показывать иконку в трее</translation>
+  </string>
+  <string>
+    <original>Subscribe to system volume events</original>
+    <!-- <translation>Subscribe to system volume events</translation> -->
+    <translation>Показывать слайдер на экране</translation>
+  </string>	
+  <string>
+    <original>Device:</original>
+    <translation>Устройство:</translation>
+  </string>
+  <string>
+    <original>Default</original>
+    <translation>По умолчанию</translation>
+  </string>
+  <string>
+    <original>Audio Taper:</original>
+    <translation>Уровень громкости</translation>
+  </string>
+  <string>
+    <original>Disabled</original>
+    <translation>Выключено</translation>
+  </string>
+  <string>
+    <original>Low</original>
+    <translation>Низкий</translation>
+  </string>
+  <string>
+    <original>Medium</original>
+    <translation>Средний</translation>
+  </string>
+  <string>
+    <original>High</original>
+    <translation>Высокий</translation>
+  </string>
+  <string>
+    <original>Volume Limiter:</original>
+    <translation>Лимит громкости</translation>
+  </string>
+  <string>
+    <original>Force volume limit</original>
+    <translation>На пределе громкости</translation>
+  </string>
+  <string>
+    <original>Mute volume during session lock</original>
+    <translation>Отключение звука во время блокировки сеанса</translation>
+  </string>
+  
+  <!-- Hotkeys Tab -->
+  <string>
+    <original>Action</original>
+    <translation>Действие</translation>
+  </string>
+  <string>
+    <original>Hotkey Editor</original>
+    <translation>Редактор быстрых клавиш</translation>
+  </string>
+  <string>
+    <original>Keys:</original>
+    <translation>Клавиша:</translation>
+  </string>
+  <string>
+    <original>Hotkey Input</original>
+    <translation>Ввод быстрых клавиш</translation>
+  </string>
+  <string>
+    <original>Enter hotkeys now...</original>
+    <translation>Нажмите выбранную быструю клавишу ...</translation>
+  </string>
+  <string>
+    <original>Action:</original>
+    <translation>Действие:</translation>
+  </string>
+  <string>
+    <original>Amount:</original>
+    <translation>Уровень:</translation>
+  </string>
+  <string>
+    <original>Volume Units</original>
+    <translation>Единиц громкости</translation>
+  </string>
+  <string>
+    <original>Percent</original>
+    <translation>Процентов</translation>
+  </string>
+  <string>
+    <original>Drive:</original>
+    <translation>Диск:</translation>
+  </string>
+  <string>
+    <original>Key:</original>
+    <translation>Key:</translation>
+  </string>
+  <string>
+    <original>Play/Pause</original>
+    <translation>Play/Pause</translation>
+  </string>
+  <string>
+    <original>Stop</original>
+    <translation>Stop</translation>
+  </string>
+  <string>
+    <original>Next</original>
+    <translation>Next</translation>
+  </string>
+  <string>
+    <original>Previous</original>
+    <translation>Previous</translation>
+  </string>
+  <string>
+    <original>VK Code (Hex):</original>
+    <translation>VK Code (Hex):</translation>
+  </string>
+  <string>
+    <original>Path:</original>
+    <translation>Обзор:</translation>
+  </string>
+
+  <!-- Hotkey Actions -->
+  <!-- Volume -->
+  <string>
+    <original>Increase Volume</original>
+    <translation>Увеличить громкость</translation>
+  </string>
+  <string>
+    <original>Increase Volume {1}%</original>
+    <translation>Увеличить громкость {1}%</translation>
+  </string>
+  <string>
+    <original>Increase Volume {1} units</original>
+    <translation>Увеличить громкость {1} units</translation>
+  </string>
+  <string>
+    <original>Decrease Volume</original>
+    <translation>Уменьшить громкость</translation>
+  </string>
+  <string>
+    <original>Decrease Volume {1}%</original>
+    <translation>Уменьшить громкость {1}%</translation>
+  </string>
+  <string>
+    <original>Decrease Volume {1} units</original>
+    <translation>Уменьшить громкость {1} units</translation>
+  </string>
+  <string>
+    <original>Set Volume</original>
+    <translation>Установить громкость</translation>
+  </string>
+  <string>
+    <original>Set Volume: {1}%</original>
+    <translation>Установить громкость: {1}%</translation>
+  </string>
+  <string>
+    <original>Set Volume: {1} units</original>
+    <translation>Установить громкость: {1} units</translation>
+  </string>
+  <string>
+    <original>Mute</original>
+    <translation>Без звука(Mute)</translation>
+  </string>
+  <string>
+    <original>Show Volume Slider</original>
+    <translation>Показать слайдер громкости</translation>
+  </string>
+  <!-- Brightness -->
+  <string>
+    <original>Increase Brightness</original>
+    <translation>Увеличить яркость</translation>
+  </string>
+  <string>
+    <original>Increase Brightness {1}%</original>
+    <translation>Увеличить яркость {1}%</translation>
+  </string>
+  <string>
+    <original>Increase Brightness {1} units</original>
+    <translation>Увеличить яркость {1} units</translation>
+  </string>
+  <string>
+    <original>Decrease Brightness</original>
+    <translation>Уменьшить яркость</translation>
+  </string>
+  <string>
+    <original>Decrease Brightness {1}%</original>
+    <translation>Уменьшить яркость {1}%</translation>
+  </string>
+  <string>
+    <original>Decrease Brightness {1} units</original>
+    <translation>Уменьшить яркость {1} units</translation>
+  </string>
+  <string>
+    <original>Set Brightness</original>
+    <translation>Установить яркость</translation>
+  </string>
+  <string>
+    <original>Set Brightness: {1}%</original>
+    <translation>Установить яркость: {1}%</translation>
+  </string>
+  <string>
+    <original>Brightness Slider</original>
+    <translation>Показать слайдер яркости</translation>
+  </string> 
+  <string>
+    <original>Eject Drive</original>
+    <translation>Извлечь диск</translation>
+  </string>
+  <string>
+    <original>Eject Drive: {1}</original>
+    <translation>Извлечь диск: {1}</translation>
+  </string>
+  <string>
+    <original>Eject Last Disk</original>
+    <translation>Извлечь последний диск</translation>
+  </string>
+  <string>
+    <original>Media Key</original>
+    <translation>Media Key</translation>
+  </string>
+  <string>
+    <original>Media Key: {1}</original>
+    <translation>Media Key: {1}</translation>
+  </string>
+  <string>
+    <original>Virtual Key</original>
+    <translation>Virtual Key</translation>
+  </string>
+  <string>
+    <original>Virtual Key: 0x{1}</original>
+    <translation>Virtual Key: 0x{1}</translation>
+  </string>
+  <string>
+    <original>Run</original>
+    <translation>Запустить приложение</translation>
+  </string>
+  <string>
+    <original>Run: {1}</original>
+    <translation>Запустить приложение: {1}</translation>
+  </string>
+  <string>
+    <original>Enable/Disable OSD</original>
+    <translation>Вкл./Выкл. OSD</translation>
+  </string>
+  <string>
+    <original>Open Settings Dialog</original>
+    <translation>Открыть диалог настроек</translation>
+  </string>
+  <string>
+    <original>Exit 3RVX</original>
+    <translation>Выход из 3RVX</translation>
+  </string>
+
+  <!-- Update Strings -->
+  <string>
+    <original>Update Available</original>
+    <translation>Доступно обновление</translation>
+  </string>
+  <string>
+    <original>3RVX {1}</original>
+    <translation>3RVX {1}</translation>
+  </string>
+  <string>
+    <original>Install</original>
+    <translation>Установить</translation>
+  </string>
+  <string>
+    <original>Ignore version</original>
+    <translation>Игнорировать версию</translation>
+  </string>
+  <string>
+    <original>Remind me later</original>
+    <translation>Напомнить позже</translation>
+  </string>
+  <string>
+    <original>Downloading...</original>
+    <translation>Загрузка...</translation>
+  </string>
+</translation>
